@@ -1,2 +1,2 @@
 # Memory-game
-This is simple logical game build in Java.
+This is a simple logical game build in Java.
